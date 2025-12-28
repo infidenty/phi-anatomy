@@ -253,11 +253,11 @@ For the first time it is shown that ALL proportions of the human hand can be exp
 
 ---
 
-## References
+## Work Status and Context
 
-1. Vitruvius. *Ten Books on Architecture*.  
-2. Leonardo da Vinci. *Vitruvian Man*.  
-3. Thompson, D’Arcy. *On Growth and Form* (1917).
+This article presents the author's hypothesis regarding the connection between hand anatomy and the Fibonacci sequence and is based on the author's own measurements and mathematical analysis.
+
+Classical works on body proportions (Vitruvius, Leonardo da Vinci, D'Arcy Thompson, etc.) are considered as historical background to the topic, but are not directly used in the calculations and models.
 
 ---
 
